@@ -1,4 +1,4 @@
-# Simple Portfolio Website
+# Portfolio Website
 Created a simple portfolio website using HTML, CSS, JavaScript
 
 ## Features :
